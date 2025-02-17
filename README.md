@@ -1,4 +1,4 @@
-# Projeto Python para curso
+# Projeto Python 
 
 ## Integração de bancos digitais
 - Verificação de saldo em cada banco
